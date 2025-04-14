@@ -19,9 +19,9 @@ import java.util.function.Function;
 
 @Service
 public class JwtService {
-    @Value("${secret.key}")
-    public static String secretKey;
-    private static final String SECRET_KEY = secretKey;
+//    @Value("${secret.key}")
+//    public static String secretKey;
+    private static final String SECRET_KEY = "q1X2z7vb9D4l8G1e3R6j0N5p2S9v6Y3f1C8i4U7o2J1m5Z9x3L0g4R8m7K2q3B6";
 
 //    step 1:
 

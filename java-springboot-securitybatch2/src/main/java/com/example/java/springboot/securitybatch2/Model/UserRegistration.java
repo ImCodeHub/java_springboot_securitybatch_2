@@ -9,5 +9,5 @@ public class UserRegistration {
     private String lastName;
     private String email;
     private String password;
-    private Role rol;
+    private Role role;
 }
